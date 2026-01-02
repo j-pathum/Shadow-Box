@@ -1,0 +1,2 @@
+target: "192.168.1.5"   # The IP of the device you are testing
+gateway: "192.168.1.1"  # Your Router's IP
